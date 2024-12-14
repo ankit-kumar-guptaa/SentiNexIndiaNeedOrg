@@ -87,7 +87,8 @@
             <h3>You Need to Protect your Money?</h3>
             <form action="homeForm.php" method="post">
                 <input type="text" placeholder="Name*" name="name" required />
-                <input type="text" placeholder="Contact No.*" name="contact" required />
+                <input type="text" placeholder="Contact No.*" name="contact" required pattern="^\+?[1-9]\d{1,14}$"
+                    title="Please enter a valid phone number. It should start with a '+' followed by the country code and then the number, or just the number without a '+'." />
                 <!-- <input type="text" placeholder="Email*" name="email" required /> -->
                 <select class="selectpicker" name="services" required>
                     <option value="">Service Type</option>
