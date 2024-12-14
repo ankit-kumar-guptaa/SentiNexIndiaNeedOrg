@@ -7,7 +7,7 @@ if(isset($submit_form)){
     require("email_server/email.php");
 
     $mail->setFrom("no-reply@algoweb.in", "Enquiry from Website");
-    $mail->addAddress("gauravmishra92812@gmail.com");
+    $mail->addAddress("sentinexneedindiaorganisation@gmail.com");
 
 
 
