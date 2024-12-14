@@ -1,0 +1,183 @@
+/***************************************************************************************************************
+||||||||||||||||||||||||||||       MASTER STYLESHEET FOR Viras Security       ||||||||||||||||||||||||||||||||||
+****************************************************************************************************************
+||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
+****************************************************************************************************************
+****************************************************************************************************************
+* 1. imported styles 
+* 2. miscelnious styles 
+* 3. header styles 
+* 4. blog styles 
+* 5. call to action styles 
+* 6. team styles 
+* 7. services styles 
+* 8. fun fact styles 
+* 9. testimonials styles 
+* 10. what we offer styles 
+* 11. about styles 
+* 12. banner styles 
+* 13. footer styles 
+* 14. social branding styles 
+* 15. erro 404 styles 
+* 16. brand section styles 
+* 17. gallery styles 
+* 18. why choose us styles 
+* 19. video box styles 
+* 20. qoute form styles 
+* 21. inner banner styles 
+* 22. faq styles 
+* 23. contact styles 
+* 24. sidebar styles 
+****************************************************************************************************************
+||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
+****************************************************************************************************************/
+
+
+// math functions are not included in sass
+@import "drop-shadow-converter/mathfunctions";
+// import converter
+@import "drop-shadow-converter/drop-shadow-converter";
+
+/************************** 
+* 1. imported styles 
+***************************/
+
+@import 'modules/_imported';
+
+/************************** 
+* 2. miscelnious styles 
+***************************/
+
+@import 'modules/_miscelnious';
+
+/************************** 
+* 3. header styles 
+***************************/
+
+@import 'modules/_header';
+
+/************************** 
+* 4. blog styles 
+***************************/
+
+@import 'modules/_blog';
+
+/************************** 
+* 5. call to action styles 
+***************************/
+
+@import 'modules/_call-to-action';
+
+/************************** 
+* 6. team styles 
+***************************/
+
+@import 'modules/_team';
+
+/************************** 
+* 7. services styles 
+***************************/
+
+@import 'modules/_services';
+
+/************************** 
+* 8. fun fact styles 
+***************************/
+
+@import 'modules/_fun-fact';
+
+/************************** 
+* 9. testimonials styles 
+***************************/
+
+@import 'modules/_testimonials';
+
+/************************** 
+* 10. what we offer styles 
+***************************/
+
+@import 'modules/_what-we-offer';
+
+/************************** 
+* 11. about styles 
+***************************/
+
+@import 'modules/_about';
+
+/************************** 
+* 12. banner styles 
+***************************/
+
+@import 'modules/_banner';
+
+/************************** 
+* 13. footer styles 
+***************************/
+
+@import 'modules/_footer';
+
+/************************** 
+* 14. social branding styles 
+***************************/
+
+@import 'modules/_social-branding';
+
+/************************** 
+* 15. erro 404 styles 
+***************************/
+
+@import 'modules/_error-404';
+
+/************************** 
+* 16. brand section styles 
+***************************/
+
+@import 'modules/_brand';
+
+/************************** 
+* 17. gallery styles 
+***************************/
+
+@import 'modules/_gallery';
+
+/************************** 
+* 18. why choose us styles 
+***************************/
+
+@import 'modules/_why-choose-us';
+
+/************************** 
+* 19. video box styles 
+***************************/
+
+@import 'modules/_video-box';
+
+/************************** 
+* 20. qoute form styles 
+***************************/
+
+@import 'modules/_qoute-form';
+
+/************************** 
+* 21. inner banner styles 
+***************************/
+
+@import 'modules/_inner-banner';
+
+/************************** 
+* 22. faq styles 
+***************************/
+
+@import 'modules/_faq';
+
+/************************** 
+* 23. contact styles 
+***************************/
+
+@import 'modules/_contact';
+
+/************************** 
+* 24. sidebar styles 
+***************************/
+
+@import 'modules/_sidebar';

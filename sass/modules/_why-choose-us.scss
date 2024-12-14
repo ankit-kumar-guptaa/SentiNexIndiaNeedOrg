@@ -1,0 +1,19 @@
+.why-choose-us {
+	.single-why-choose {
+		margin-right: -15px;
+		+ .single-why-choose {margin-top: 45px;}
+		.icon-box, .text-box  {
+			display: table-cell;
+			vertical-align: top;
+		}
+		.icon-box {width: 85px;
+			.inner {width: 85px;height: 85px;border: 1px solid #F3F2F2;text-align: center;border-radius: 50%;
+				i {font-size: 33px;line-height: 83px;color: #ED492E;}
+			}
+		}
+		.text-box {padding-left: 15px;
+			h3, p {margin: 0;}
+			h3 {font-size: 20px;font-weight: bold;color: #333333;margin-bottom: 5px;}
+		}
+	}
+}

@@ -1,0 +1,36 @@
+.team-style-one {
+	.single-team-one {
+		display: block;
+		background:#fff;
+		border: 1px solid #F5F5F5;
+		box-shadow: drop-shadow-converter(#F3F3F3, $angle: 91, $distance: 29px, $spread: 0, $size: 62px, $opacity: 75%);
+		text-align: center;
+		padding-top: 60px;
+		padding-bottom: 55px;
+		h3 {margin: 0;color: #333333;font-size: 30px;margin-top: 40px;margin-bottom: 10px;}
+		span.position {color: #ED492E;font-size: 18px;}
+		.social {margin-top: 10px;
+			a {color: #B4B4B4;font-size: 14px;
+				+ a {margin-left: 15px;}
+			}
+		}
+	}
+}
+
+.team-style-two {
+	background: #fff url(../img/team-2-bg.png) center center repeat;
+	.single-team-style-two {
+		padding-left: 20px;
+		padding-right: 20px;
+		> img {width: 100%;}
+		.text-box {box-shadow: drop-shadow-converter(#F3F3F3, $angle: 91, $distance: 29px, $spread: 0, $size: 62px, $opacity: 75%); text-align: center;padding-bottom: 20px;
+			h3 {margin: 0;color: #333333;font-size: 20px;margin-top: 20px;margin-bottom: 7px;}
+			span.position {color: #ED492E;font-size: 15px;}
+			.social {margin-top: 0px;
+				a {color: #B4B4B4;font-size: 14px;
+					+ a {margin-left: 15px;}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,68 @@
+.footer {
+	background:#1C1C1C;
+	.footer-widget {padding-top: 100px;
+		p, ul, li {margin: 0;padding: 0;list-style: none;}
+		.title {
+			.line {display: block;width: 45px;height: 3px;background:#ED492E;margin-bottom: 17px;}
+			h3 {margin: 0;color: #FFFFFF;font-weight: bold;font-size: 20px;}
+		}
+		&.about-widget {
+			a.footer-logo {margin-bottom: 40px;display: block;}
+			p {margin: 0;}
+			p + p {margin-top: 30px;}
+		}
+		&.twitter-widget {
+			margin-left: -40px;
+			padding-right: 91px;
+			.title {margin-bottom: 40px;}
+			.single-twitter {				
+				+ .single-twitter {
+					border-top: 1px solid #2C2C2C;
+					padding-top: 15px;
+					margin-top: 10px;
+				}
+				p {margin: 0;position: relative;padding-left: 25px;
+					&:before {
+						content: '\f099';
+						font-family: 'FontAwesome';
+						color: #fff;
+						font-size: 20px;
+						position: absolute;
+						top:0;
+						left:0;
+					}
+					span {color: #ED492E;}
+				}
+			}
+		}
+		&.links-widget {
+			margin-left: -20px;
+			.title {margin-bottom: 40px;}
+			ul.links-list {
+				li {position: relative;padding-left: 15px;
+					+ li {margin-top: 15px;}
+					i.fa {position: absolute;top:50%;left:0;transform: translateY(-50%);color: #ED492E;}
+				}
+			}
+		}
+		&.contact-widget {
+			background:#242424;
+			padding: 0 40px;
+			padding-top: 100px;
+			padding-bottom: 120px;
+			margin-left: -75px;
+			form.footer-contact-form {
+				margin-top: 30px;
+				input {border: none;outline: none;background:#2D2D2D;color: #A3A2A2;font-size: 14px;width: 100%;height: 47px;margin-bottom: 15px;padding-left: 20px;
+					@include placeholder {color: #A3A2A2;}
+				}
+				button.thm-btn {width: 135px;height: 47px;padding: 0;text-align: center;}
+			}
+		}
+	}
+}
+.footer-bottom {
+	background:#ED492E;
+	padding: 26px 0;
+	p {color: #FFFEFE;font-size: 15px;margin: 0;}
+}

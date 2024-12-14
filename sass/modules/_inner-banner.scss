@@ -1,0 +1,14 @@
+.inner-banner {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 140px 0;
+	.title {
+		h2 {margin: 0;color: #fff;font-size: 45px;font-family: 'Roboto';font-weight: bold;line-height: 1em;}
+	}
+	.breadcumb {
+		a, span {color: #FFFFFF;font-size: 15px;font-weight: 600;line-height: 45px;display: inline-block;}
+		span.sep {margin-left: 8px;margin-right: 8px;}
+		span.page-name {color: #ED492E;}
+	}
+}

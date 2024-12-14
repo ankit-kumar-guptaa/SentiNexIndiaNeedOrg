@@ -1,0 +1,28 @@
+.cta-style-one {
+	background: #1c1c1c url(../img/cta-bg-1.jpg) center center no-repeat;
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 125px;
+	.sec-title {margin-bottom: 0;
+		h2 {color: #fff;line-height: 50px;margin-bottom: 30px;}
+		span.highlight {color: #ED492E;font-weight: 600;font-size: 20px;display: block;}
+		p {color: #888888;margin-bottom: 15px;margin-top: 16px;}
+		.phone {color: #fff;font-size: 80px;font-weight: 300;line-height: 80px;
+			span {color: #ED492E;font-weight: 700;}
+		}
+		a.thm-btn {margin-top: 50px;}
+	}
+}
+
+.cta-style-two {
+	position: relative;
+	padding: 130px 0;
+	background: #1c1c1c url(../img/cta-bg-2.jpg) center center no-repeat fixed;
+	background-size: cover;
+	&:before {content: '';position: absolute;top:0;left: 0;right: 0;bottom: 0;background:rgba(#1c1c1c,.93);}
+	.container {position: relative;}
+	h2 {color: #fff;font-size: 40px;line-height: 50px;margin: 0;
+		span {color: #ED492E;font-weight: 800;}
+	}
+	.button-box {padding: 20px 0;}
+}
