@@ -56,7 +56,7 @@
                                     --><a href="#" class="link-btn"><i class="icon icon-Linked"></i></a>
                                 </div><!-- /.icon-box -->
                                 <h3>CEO</h3>
-                                <!-- <p>Day & night cams</p> -->
+                                <p>Kameshwar chaudhary</p>
                             </div><!-- /.box -->
                         </div><!-- /.content -->
                     </div><!-- /.overlay -->
