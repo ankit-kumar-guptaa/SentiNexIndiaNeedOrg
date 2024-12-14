@@ -89,8 +89,8 @@
                                     <a href="fine/ceo1.pngg" class="img-popup"><i class="icon icon-Search"></i></a><!--
                                     --><a href="#" class="link-btn"><i class="icon icon-Linked"></i></a>
                                 </div><!-- /.icon-box -->
-                                <!-- <h3>Aenean vitae enim rhoncus</h3> -->
-                                <!-- <p>Day & night cams</p> -->
+                                <h3>CEO</h3>
+                                <p>Punita Chaudhary</p>
                             </div><!-- /.box -->
                         </div><!-- /.content -->
                     </div><!-- /.overlay -->
