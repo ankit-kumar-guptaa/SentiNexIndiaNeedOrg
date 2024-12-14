@@ -38,7 +38,7 @@
         <div class="gallery-filter">
             <ul class="list-inline post-filter masonary">
                 <li class="filter active" data-filter=".masonary-item"><span>All</span></li><!--
-                --><li class="filter " data-filter=".alarm"><span>CEO</span></li><!--
+                --><li class="filter " data-filter=".alarm"><span>CEOroca</span></li><!--
                 --><li class="filter " data-filter=".lock"><span>Lock Closed</span></li><!--
                 --><li class="filter " data-filter=".circuit"><span>Guard</span></li><!--
                 --><li class="filter " data-filter=".camera"><span>Camera Scurity</span></li>
