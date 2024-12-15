@@ -9,7 +9,6 @@
     <link rel="icon" href="fine/bglogo.png" type="image/x-icon">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-
     <style>
         /* Modal styles */
         #myModal {
@@ -58,6 +57,7 @@
             cursor: pointer;
         }
     </style>
+
 </head>
 
 <body>
@@ -687,7 +687,7 @@
         <div class="container">
             <div class="sec-title text-center">
                 <div class="line"></div><!-- /.line -->
-                <h2>Security Industry<span>Fresh News</span></h2>
+                <h2>Our <span>Fresh News</span></h2>
             </div><!-- /.sec-title -->
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12">
@@ -773,182 +773,207 @@
                                     }
                                 }
                             </script>
-                        </div>
-                    </div><!-- /.text-box -->
-                </div><!-- /.single-blog-two -->
-            </div><!-- /.col-md-4 -->
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-blog-two">
-                    <div class="img-box">
-                        <img src="fine/news2.png" alt="Awesome Image" />
-                        <!-- <div class="date">14 February 2018</div> -->
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="#"><img src="fine/news2.png" alt="Awesome Image" /></a>
-                                </div><!-- /.content -->
-                            </div><!-- /.box -->
-                        </div><!-- /.overlay -->
-                    </div><!-- /.img-box -->
-                    <div class="text-box">
-                        <a href="#">
-                            <h3>AI revolutionising security <br /> industry</h3>
-                        </a>
-                        <a href="javascript:void(0);"
-                            style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;"
-                            onmouseover="this.style.backgroundColor='#0056b3';"
-                            onmouseout="this.style.backgroundColor='#007BFF';"
-                            onclick="document.getElementById('myModal').style.display='block';">Read More</a>
+                        </div><!-- /.text-box -->
+                    </div><!-- /.single-blog-two -->
+                </div><!-- /.col-md-4 -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-blog-two">
+                        <div class="img-box">
+                            <img src="fine/news2.png" alt="Awesome Image" />
+                            <!-- <div class="date">14 February 2018</div> -->
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <a href="#"><img src="fine/news2.png" alt="Awesome Image" /></a>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                        <div class="text-box">
+                            <a href="#">
+                                <h3>AI revolutionising security <br /> industry</h3>
+                            </a>
+                            <a href="javascript:void(0);"
+                                style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;"
+                                onmouseover="this.style.backgroundColor='#0056b3';"
+                                onmouseout="this.style.backgroundColor='#007BFF';"
+                                onclick="document.getElementById('myModal').style.display='block';">Read More</a>
 
-                        <!-- The Modal -->
-                        <div id="myModal">
-                            <div class="modal-content">
-                                <span class="close"
-                                    onclick="document.getElementById('myModal').style.display='none';">&times;</span>
-                                <p>The global security industry is valued at $120 billion, experiencing an annual growth
-                                    rate of 8% CAGR until 2030. As security becomes a critical priority for governments,
-                                    institutions, and the private sector, demand is expected to rise significantly in
-                                    the coming years, stated Shashank Sambyal, Zonal Head, North & East at Godrej
-                                    Enterprise, during his speech at the IFSEC India expo organized by Informa Markets
-                                    in India.
+                            <!-- The Modal -->
+                            <div id="myModal">
+                                <div class="modal-content">
+                                    <span class="close"
+                                        onclick="document.getElementById('myModal').style.display='none';">&times;</span>
+                                    <p>The global security industry is valued at $120 billion, experiencing an annual
+                                        growth
+                                        rate of 8% CAGR until 2030. As security becomes a critical priority for
+                                        governments,
+                                        institutions, and the private sector, demand is expected to rise significantly
+                                        in
+                                        the coming years, stated Shashank Sambyal, Zonal Head, North & East at Godrej
+                                        Enterprise, during his speech at the IFSEC India expo organized by Informa
+                                        Markets
+                                        in India.
 
-                                    "Government regulations, such as Standardisation Testing & Quality Certification
-                                    (STQC), are reinforcing industry standards to ensure secure data management," he
-                                    added.
+                                        "Government regulations, such as Standardisation Testing & Quality Certification
+                                        (STQC), are reinforcing industry standards to ensure secure data management," he
+                                        added.
 
-                                    M. A. Johar, President of Strategic Business at CP Plus, mentioned, "The CCTV
-                                    surveillance market in India is currently valued at around ₹9,000 crore, growing at
-                                    a 30% annual rate. There is tremendous potential for further growth, and Indian
-                                    brands are receiving increasing global attention as the world turns to India for
-                                    surveillance solutions."</p>
-                                <p>The integration of AI is transforming the industry by enhancing camera functionality
-                                    with real-time monitoring, proactive alerts, and data analytics. The demand for
-                                    cameras is expanding beyond traditional security uses, from homes and businesses to
-                                    vehicles, driven by the rising popularity of dash cams. Security is becoming an
-                                    integral part of everyday life," he continued.
-                                </p>
-                                <p>The market is still expanding, and the evolving technological landscape will
-                                    accelerate the widespread adoption of surveillance systems," he further emphasized.
+                                        M. A. Johar, President of Strategic Business at CP Plus, mentioned, "The CCTV
+                                        surveillance market in India is currently valued at around ₹9,000 crore, growing
+                                        at
+                                        a 30% annual rate. There is tremendous potential for further growth, and Indian
+                                        brands are receiving increasing global attention as the world turns to India for
+                                        surveillance solutions."</p>
+                                    <p>The integration of AI is transforming the industry by enhancing camera
+                                        functionality
+                                        with real-time monitoring, proactive alerts, and data analytics. The demand for
+                                        cameras is expanding beyond traditional security uses, from homes and businesses
+                                        to
+                                        vehicles, driven by the rising popularity of dash cams. Security is becoming an
+                                        integral part of everyday life," he continued.
+                                    </p>
+                                    <p>The market is still expanding, and the evolving technological landscape will
+                                        accelerate the widespread adoption of surveillance systems," he further
+                                        emphasized.
 
-                                    Ashish P. Dhakan, MD & CEO of Prama Hikvision India Private Ltd., stated, "AI is not
-                                    only transforming security but also driving industry automation, allowing cameras to
-                                    detect product quality issues. With supportive government policies, we expect a 40%
-                                    growth rate for Indian manufacturers in the coming years.</p>
+                                        Ashish P. Dhakan, MD & CEO of Prama Hikvision India Private Ltd., stated, "AI is
+                                        not
+                                        only transforming security but also driving industry automation, allowing
+                                        cameras to
+                                        detect product quality issues. With supportive government policies, we expect a
+                                        40%
+                                        growth rate for Indian manufacturers in the coming years.</p>
+                                </div>
                             </div>
-                        </div>
 
-                        <script>
-                            // Get the modal
-                            var modal = document.getElementById("myModal");
+                            <script>
+                                // Get the modal
+                                var modal = document.getElementById("myModal");
 
-                            // Get the <span> element that closes the modal
-                            var span = document.getElementsByClassName("close")[0];
+                                // Get the <span> element that closes the modal
+                                var span = document.getElementsByClassName("close")[0];
 
-                            // When the user clicks on <span> (x), close the modal
-                            span.onclick = function () {
-                                modal.style.display = "none";
-                            }
-
-                            // When the user clicks anywhere outside of the modal, close it
-                            window.onclick = function (event) {
-                                if (event.target == modal) {
+                                // When the user clicks on <span> (x), close the modal
+                                span.onclick = function () {
                                     modal.style.display = "none";
                                 }
-                            }
-                        </script>
-                    </div><!-- /.text-box -->
-                </div><!-- /.single-blog-two -->
-            </div><!-- /.col-md-4 -->
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-blog-two">
-                    <div class="img-box">
-                        <img src="fine/news3.png" alt="Awesome Image" />
-                        <!-- <div class="date">14 February 2018</div> -->
-                        <div class="overlay">
-                            <div class="box">
-                                <div class="content">
-                                    <a href="#"><img src="fine/news3.png" alt="Awesome Image" /></a>
-                                </div><!-- /.content -->
-                            </div><!-- /.box -->
-                        </div><!-- /.overlay -->
-                    </div><!-- /.img-box -->
-                    <div class="text-box">
-                        <a href="#">
-                            <h3>India’s security industry gathers <br /> momentum at IFSEC India 2024</h3>
-                        </a>
-                        <a href="javascript:void(0);"
-                            style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;"
-                            onmouseover="this.style.backgroundColor='#0056b3';"
-                            onmouseout="this.style.backgroundColor='#007BFF';"
-                            onclick="document.getElementById('myModal').style.display='block';">Read More</a>
 
-                        <!-- The Modal -->
-                        <div id="myModal">
-                            <div class="modal-content">
-                                <span class="close"
-                                    onclick="document.getElementById('myModal').style.display='none';">&times;</span>
-                                <p>India's security industry is gaining significant momentum, as demonstrated at the
-                                    IFSEC India 2024 event, which brought together experts, innovators, and key players
-                                    in the sector. The three-day expo, held from December 12-14 at Pragati Maidan, New
-                                    Delhi, highlighted the rapid growth and transformation of the security landscape in
-                                    India.
+                                // When the user clicks anywhere outside of the modal, close it
+                                window.onclick = function (event) {
+                                    if (event.target == modal) {
+                                        modal.style.display = "none";
+                                    }
+                                }
+                            </script>
+                        </div><!-- /.text-box -->
+                    </div><!-- /.single-blog-two -->
+                </div><!-- /.col-md-4 -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="single-blog-two">
+                        <div class="img-box">
+                            <img src="fine/news3.png" alt="Awesome Image" />
+                            <!-- <div class="date">14 February 2018</div> -->
+                            <div class="overlay">
+                                <div class="box">
+                                    <div class="content">
+                                        <a href="#"><img src="fine/news3.png" alt="Awesome Image" /></a>
+                                    </div><!-- /.content -->
+                                </div><!-- /.box -->
+                            </div><!-- /.overlay -->
+                        </div><!-- /.img-box -->
+                        <div class="text-box">
+                            <a href="#">
+                                <h3>India’s security industry gathers <br /> momentum at IFSEC India 2024</h3>
+                            </a>
+                            <a href="javascript:void(0);"
+                                style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; transition: background-color 0.3s;"
+                                onmouseover="this.style.backgroundColor='#0056b3';"
+                                onmouseout="this.style.backgroundColor='#007BFF';"
+                                onclick="document.getElementById('myModal').style.display='block';">Read More</a>
 
-                                    The global security market, valued at $120 billion, is projected to grow at a
-                                    compound annual growth rate (CAGR) of 8% until 2030. Experts predict this growth
-                                    will be mirrored in India's security sector, driven by the increasing need for
-                                    advanced surveillance, cyber defense, and integrated security solutions across
-                                    industries.
+                            <!-- The Modal -->
+                            <div id="myModal">
+                                <div class="modal-content">
+                                    <span class="close"
+                                        onclick="document.getElementById('myModal').style.display='none';">&times;</span>
+                                    <p>India's security industry is gaining significant momentum, as demonstrated at the
+                                        IFSEC India 2024 event, which brought together experts, innovators, and key
+                                        players
+                                        in the sector. The three-day expo, held from December 12-14 at Pragati Maidan,
+                                        New
+                                        Delhi, highlighted the rapid growth and transformation of the security landscape
+                                        in
+                                        India.
 
-                                    Shashank Sambyal, Zonal Head at Godrej Enterprise, emphasized that the demand for
-                                    security solutions is poised to surge as governments, businesses, and individuals
-                                    prioritize safety. He also highlighted the role of regulatory frameworks, such as
-                                    the Standardisation Testing & Quality Certification (STQC), in strengthening
-                                    industry standards.</p>
-                                <p>M. A. Johar, President of Strategic Business at CP Plus, shared that India's CCTV
-                                    surveillance market, valued at approximately ₹9,000 crore, is growing at an
-                                    impressive 30% annually. Indian brands are gaining international recognition as
-                                    global demand for surveillance solutions rises.
+                                        The global security market, valued at $120 billion, is projected to grow at a
+                                        compound annual growth rate (CAGR) of 8% until 2030. Experts predict this growth
+                                        will be mirrored in India's security sector, driven by the increasing need for
+                                        advanced surveillance, cyber defense, and integrated security solutions across
+                                        industries.
 
-                                    AI integration is a key trend in the sector, enhancing camera functionalities for
-                                    real-time monitoring, proactive alerts, and data analytics. The demand for cameras
-                                    has expanded beyond traditional security uses, reaching homes, businesses, and even
-                                    vehicles.
-                                </p>
-                                <p>Ashish P. Dhakan, MD & CEO of Prama Hikvision India, highlighted AI’s role in both
-                                    security and industry automation, noting how cameras now assist in detecting product
-                                    quality issues. With favorable government policies, the Indian security industry is
-                                    expected to see a 40% growth rate in the coming years.
+                                        Shashank Sambyal, Zonal Head at Godrej Enterprise, emphasized that the demand
+                                        for
+                                        security solutions is poised to surge as governments, businesses, and
+                                        individuals
+                                        prioritize safety. He also highlighted the role of regulatory frameworks, such
+                                        as
+                                        the Standardisation Testing & Quality Certification (STQC), in strengthening
+                                        industry standards.</p>
+                                    <p>M. A. Johar, President of Strategic Business at CP Plus, shared that India's CCTV
+                                        surveillance market, valued at approximately ₹9,000 crore, is growing at an
+                                        impressive 30% annually. Indian brands are gaining international recognition as
+                                        global demand for surveillance solutions rises.
 
-                                    The event showcased over 300 security brands and 5,000 products, including advanced
-                                    CCTV systems, biometrics, and RFID technologies. With the integration of AI, video
-                                    surveillance, and perimeter security systems, the future of India's security
-                                    industry looks promising, fostering innovation and technological advancements.</p>
+                                        AI integration is a key trend in the sector, enhancing camera functionalities
+                                        for
+                                        real-time monitoring, proactive alerts, and data analytics. The demand for
+                                        cameras
+                                        has expanded beyond traditional security uses, reaching homes, businesses, and
+                                        even
+                                        vehicles.
+                                    </p>
+                                    <p>Ashish P. Dhakan, MD & CEO of Prama Hikvision India, highlighted AI’s role in
+                                        both
+                                        security and industry automation, noting how cameras now assist in detecting
+                                        product
+                                        quality issues. With favorable government policies, the Indian security industry
+                                        is
+                                        expected to see a 40% growth rate in the coming years.
+
+                                        The event showcased over 300 security brands and 5,000 products, including
+                                        advanced
+                                        CCTV systems, biometrics, and RFID technologies. With the integration of AI,
+                                        video
+                                        surveillance, and perimeter security systems, the future of India's security
+                                        industry looks promising, fostering innovation and technological advancements.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
 
-                        <script>
-                            // Get the modal
-                            var modal = document.getElementById("myModal");
+                            <script>
+                                // Get the modal
+                                var modal = document.getElementById("myModal");
 
-                            // Get the <span> element that closes the modal
-                            var span = document.getElementsByClassName("close")[0];
+                                // Get the <span> element that closes the modal
+                                var span = document.getElementsByClassName("close")[0];
 
-                            // When the user clicks on <span> (x), close the modal
-                            span.onclick = function () {
-                                modal.style.display = "none";
-                            }
-
-                            // When the user clicks anywhere outside of the modal, close it
-                            window.onclick = function (event) {
-                                if (event.target == modal) {
+                                // When the user clicks on <span> (x), close the modal
+                                span.onclick = function () {
                                     modal.style.display = "none";
                                 }
-                            }
-                        </script>
-                    </div><!-- /.text-box -->
-                </div><!-- /.single-blog-two -->
-            </div><!-- /.col-md-4 -->
-        </div><!-- /.row -->
+
+                                // When the user clicks anywhere outside of the modal, close it
+                                window.onclick = function (event) {
+                                    if (event.target == modal) {
+                                        modal.style.display = "none";
+                                    }
+                                }
+                            </script>
+                        </div><!-- /.text-box -->
+                    </div><!-- /.single-blog-two -->
+                </div><!-- /.col-md-4 -->
+            </div><!-- /.row -->
         </div><!-- /.container -->
     </section><!-- /.blog-style-two -->
 
