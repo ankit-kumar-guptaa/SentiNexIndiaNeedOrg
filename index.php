@@ -723,7 +723,7 @@
                                         This three-day event, which began on December 12, will run until December 14 at
                                         Pragati Maidan, according to an official statement.
 
-                                        "As security becomes increasingly vital for governments, institutions, and
+                                        As security becomes increasingly vital for governments, institutions, and
                                         private sectors, the demand for it is expected to grow significantly in the
                                         coming years," he remarked.
 
