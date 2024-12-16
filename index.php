@@ -34,6 +34,17 @@
             width: 80%;
         }
 
+        @media (max-width: 768px) {
+            .modal-content {
+                margin: 33% auto;
+                /* Reduce margin for smaller screens */
+                padding: 15px;
+                /* Reduce padding for smaller screens */
+                width: 90%;
+                /* Increase width for smaller screens */
+            }
+        }
+
         .close {
             color: #aaa;
             float: right;
