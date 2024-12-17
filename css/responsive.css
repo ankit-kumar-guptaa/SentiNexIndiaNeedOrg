@@ -220,7 +220,7 @@
     .qoute-form-two .container {padding-left: 30px;padding-right: 30px;}
     .qoute-form-two form input {width: 100%;display: block;max-width: 100%;}
     .qoute-form-two form .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {display: block;margin-bottom: 10px;}
-    .inner-banner {padding: 70px 0;}
+    .inner-banner {padding: 35px 0;}
     .service-single-page .related-services-carousel .owl-nav {position: static;margin-bottom: 0;margin-top: 50px;}
 }
 
