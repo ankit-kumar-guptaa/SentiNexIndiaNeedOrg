@@ -774,44 +774,6 @@
         <div id="modal1" class="modal">
             <div class="modal-content">
                 <span class="close" onclick="closeModal('modal1')">&times;</span>
-                <p>He was speaking at the 17th edition of IFSEC India, organized by Informa Markets.
-                    This three-day event, which began on December 12, will run until December 14 at
-                    Pragati Maidan, according to an official statement.
-
-                    As security becomes increasingly vital for governments, institutions, and
-                    private sectors, the demand for it is expected to grow significantly in the
-                    coming years," he remarked.
-
-                    "While major cities remain at the forefront of adopting advanced security
-                    solutions, tier-II and tier-III cities are also becoming key players in driving
-                    this demand surge," stated Yogesh Mudras, Managing Director of Informa Markets
-                    in India.
-
-                    The Indian CCTV market, valued at $3.98 billion in 2024, is projected to
-                    experience an impressive compound annual growth rate (CAGR) of 20.6%, reaching
-                    $10.17 billion by 2029. IFSEC India is the ideal platform to present these
-                    advancements, helping shape the future of the security landscape and fostering
-                    innovation across the sector," he added.</p>
-                <p>Advanced technologies like AI-driven facial recognition and anomaly detection
-                    have revolutionized security systems but also brought new challenges, such as
-                    password breaches and exploitation of vulnerabilities. With 35% of critical
-                    assets still exposed to cyber threats, it has become crucial to combine strong
-                    digital defenses with physical security measures. Innovations such as spider
-                    networks, developed by Indian scientists, highlight the country's capability to
-                    address these evolving security issues effectively," explained SK Singh, Deputy
-                    Commissioner of Police, Delhi Traffic Police, Headquarters & Road Safety.
-                </p>
-                <p>The event brought together over 300 top security brands, showcasing more than
-                    5,000 products and solutions. The expo displayed cutting-edge CCTV and video
-                    surveillance systems, biometrics, RFID, integrated systems, and perimeter
-                    security technologies, demonstrating the latest innovations shaping the future
-                    of the security industry, the statement concluded.</p>
-            </div>
-        </div>
-
-        <div id="modal2" class="modal">
-            <div class="modal-content">
-                <span class="close" onclick="closeModal('modal2')">&times;</span>
                 <p>The global security industry is valued at $120 billion, experiencing an annual
                     growth
                     rate of 8% CAGR until 2030. As security becomes a critical priority for
@@ -852,6 +814,45 @@
                     detect product quality issues. With supportive government policies, we expect a
                     40%
                     growth rate for Indian manufacturers in the coming years.</p>
+
+            </div>
+        </div>
+
+        <div id="modal2" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="closeModal('modal2')">&times;</span>
+                <p>He was speaking at the 17th edition of IFSEC India, organized by Informa Markets.
+                    This three-day event, which began on December 12, will run until December 14 at
+                    Pragati Maidan, according to an official statement.
+
+                    As security becomes increasingly vital for governments, institutions, and
+                    private sectors, the demand for it is expected to grow significantly in the
+                    coming years," he remarked.
+
+                    "While major cities remain at the forefront of adopting advanced security
+                    solutions, tier-II and tier-III cities are also becoming key players in driving
+                    this demand surge," stated Yogesh Mudras, Managing Director of Informa Markets
+                    in India.
+
+                    The Indian CCTV market, valued at $3.98 billion in 2024, is projected to
+                    experience an impressive compound annual growth rate (CAGR) of 20.6%, reaching
+                    $10.17 billion by 2029. IFSEC India is the ideal platform to present these
+                    advancements, helping shape the future of the security landscape and fostering
+                    innovation across the sector," he added.</p>
+                <p>Advanced technologies like AI-driven facial recognition and anomaly detection
+                    have revolutionized security systems but also brought new challenges, such as
+                    password breaches and exploitation of vulnerabilities. With 35% of critical
+                    assets still exposed to cyber threats, it has become crucial to combine strong
+                    digital defenses with physical security measures. Innovations such as spider
+                    networks, developed by Indian scientists, highlight the country's capability to
+                    address these evolving security issues effectively," explained SK Singh, Deputy
+                    Commissioner of Police, Delhi Traffic Police, Headquarters & Road Safety.
+                </p>
+                <p>The event brought together over 300 top security brands, showcasing more than
+                    5,000 products and solutions. The expo displayed cutting-edge CCTV and video
+                    surveillance systems, biometrics, RFID, integrated systems, and perimeter
+                    security technologies, demonstrating the latest innovations shaping the future
+                    of the security industry, the statement concluded.</p>
             </div>
         </div>
 
