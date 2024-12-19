@@ -89,7 +89,7 @@
                     <div class="single-blog-two">
                         <div class="img-box">
                             <img src="fine/blogs1.png" alt="Awesome Image" />
-                            <div class="date">14 February 2018</div><!-- /.date -->
+                            <!-- <div class="date">14 February 2018</div> -->
                             <div class="overlay">
                                 <div class="box">
                                     <div class="content">
