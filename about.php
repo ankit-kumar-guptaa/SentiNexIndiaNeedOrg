@@ -149,62 +149,63 @@
                             <div class="accrodion-title">
                                 <h4>Our Documents and Certifications</h4>
                             </div>
-                            <div class="accrodion-content">
-
-
+                            <div class="accordion-content">
                                 <h2 style="color: green;">Click on a Document to download a PDF:</h2>
                                 <br>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(1)"> 1. - AOA PDF 1</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(2)"> 2. - Col PDF 2</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(3)"> 3. - Company pan cad PDF 3</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(4)"> 4. - E-Register - Main Page PDF 4</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(5)"> 5. - GST PDF 5</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(6)"> 6. - MOA PDF 6</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(7)"> 7. - Pan PDF 7</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(8)"> 8. - Pf PDF 8</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(9)"> 9. - quality Management PDF 9</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(10)"> 10. - Shop and Establishment Registration PDF 10</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(11)"> 11. - starupindia PDF 11</div>
-                                <div class="line" style="cursor: pointer;"
-                                    onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
-                                    onmouseout="this.style.color=''; this.style.textDecoration='';"
-                                    onclick="startDownload(12)"> 12. - udyam PDF 12</div>
+                                <ol>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(1)"> AOA PDF 1</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(2)"> Col PDF 2</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(3)"> Company pan cad PDF 3</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(4)"> E-Register - Main Page PDF 4</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(5)"> GST PDF 5</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(6)"> MOA PDF 6</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(7)"> Pan PDF 7</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(8)"> Pf PDF 8</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(9)"> quality Management PDF 9</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(10)"> Shop and Establishment Registration PDF 10</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(11)"> starupindia PDF 11</li>
+                                    <li class="line" style="cursor: pointer;"
+                                        onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
+                                        onmouseout="this.style.color=''; this.style.textDecoration='';"
+                                        onclick="startDownload(12)"> udyam PDF 12</li>
+                                </ol>
                                 <br>
                                 <div style="color: green;" id="status"></div>
                             </div>
+
                         </div>
                     </div>
                 </div><!-- /.col-md-12 -->
