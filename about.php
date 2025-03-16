@@ -158,7 +158,7 @@
                                     onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
                                     onmouseout="this.style.color=''; this.style.textDecoration='';"
                                     onclick="startDownload(1)"> 1. - AOA PDF 1</div>
-                                <div class="line" style="cursor: pointer;"
+                                <div class="line" style="cursor: pointer;
                                     onmouseover="this.style.color='blue'; this.style.textDecoration='underline';"
                                     onmouseout="this.style.color=''; this.style.textDecoration='';"
                                     onclick="startDownload(2)"> 2. - Col PDF 2</div>
